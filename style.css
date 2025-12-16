@@ -1,4 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(59, 58, 58);
+}
+
 h1 {
-  color: blue;
-  font-size: larger;
+  color: white;
+  font-size: 72px;
 }
